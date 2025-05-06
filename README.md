@@ -45,7 +45,7 @@ This project implements a real-time sign language recognition system. It capture
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/sign-language-recognition.git
+   git clone [https://github.com/your-username/sign-language-recognition.git](https://github.com/SalimYs/TranslatingLaunguge)
    cd sign-language-recognition
    ```
 2. Create and activate a virtual environment (optional but recommended):
@@ -131,7 +131,7 @@ This project implements a real-time sign language recognition system. It capture
 ├── collect_data.py       # Data collection script
 ├── train_model.py        # Model training pipeline
 ├── detect_gesture.py     # Real-time detection demo
-├── MP_Data/              # Stored keypoint sequences
+├── MP_Data/           # Stored keypoint sequences
 ├── action_model.h5       # Trained model weights
 ├── requirements.txt      # Python dependencies
 └── README.md             # This file
