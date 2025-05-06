@@ -45,7 +45,7 @@ This project implements a real-time sign language recognition system. It capture
 1. Clone this repository:
 
    ```bash
-   git clone [https://github.com/your-username/sign-language-recognition.git](https://github.com/SalimYs/TranslatingLaunguge)
+   git clone https://github.com/SalimYs/TranslatingLaunguge.git
    cd sign-language-recognition
    ```
 2. Create and activate a virtual environment (optional but recommended):
